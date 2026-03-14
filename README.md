@@ -1,0 +1,1 @@
+# skill-ghostty-setup
